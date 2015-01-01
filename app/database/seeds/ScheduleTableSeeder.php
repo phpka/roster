@@ -14,7 +14,7 @@ class ScheduleTableSeeder extends Seeder {
                 'title' => $faker->text(200),
                 'url' => 'http://www.example.com',
                 'class' => 'event-important',
-                'start' => '2015-01-10 14:00:00',
-                'end' => '2015-01-11 16:00:00']);
+                'start' => '2015-01-03 01:00:00',
+                'end' => '2015-01-15 23:00:00']);
 	}
 }
